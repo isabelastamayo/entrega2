@@ -1,0 +1,55 @@
+
+
+.f1
+{
+	margin-left: 90px;
+	margin-top: 60px;
+}
+
+.t
+{
+	margin-left: 150px;
+	margin-top: -80px;
+	width: 40px;
+	height: 40px;
+	border-radius:0px;
+}
+
+.i
+{
+		background-image: url(in.jpeg);
+	width: 80px;
+	height: 23px;
+	margin-top: -10px;
+	margin-left: 45px;
+}
+
+.f2
+{
+	margin-left: 800px;
+	margin-top: -220px;
+}
+
+.e
+{
+	margin-left: 140px;
+	margin-top: -80px;
+}
+.l
+{
+	background-image: url(be.jpeg);
+	width: 140px;
+	height: 23px;
+	margin-top: -10px;
+	margin-left: 60px;
+}
+.d
+{
+  margin-left: -500px;
+	margin-top: 40px;	
+}
+.res
+{
+	margin-left: 130px;
+	margin-top: -50px;
+}
